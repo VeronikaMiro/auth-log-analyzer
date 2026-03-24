@@ -1,0 +1,10 @@
+Jul 10 08:15:01 server sshd[1234]: Failed password for invalid user admin from 185.220.101.1 port 22 ssh2
+Jul 10 08:15:10 server sshd[1235]: Failed password for invalid user root from 185.220.101.1 port 22 ssh2
+Jul 10 08:15:20 server sshd[1236]: Failed password for invalid user test from 185.220.101.1 port 22 ssh2
+Jul 10 08:15:30 server sshd[1237]: Failed password for invalid user guest from 185.220.101.1 port 22 ssh2
+Jul 10 08:17:01 server sshd[1240]: Failed password for user anna from 91.210.45.77 port 22 ssh2
+Jul 10 08:18:45 server sshd[1244]: Accepted password for weronica from 192.168.1.25 port 22 ssh2
+Jul 10 08:19:10 server sshd[1248]: Failed password for user john from 91.210.45.77 port 22 ssh2
+Jul 10 08:21:55 server sshd[1250]: Accepted password for analyst from 10.0.0.15 port 22 ssh2
+Jul 10 08:22:12 server sshd[1252]: Failed password for invalid user support from 203.0.113.50 port 22 ssh2
+Jul 10 08:23:00 server sshd[1254]: Failed password for invalid user support from 203.0.113.50 port 22 ssh2
