@@ -18,7 +18,7 @@ Tento projekt slouží k analýze autentizačních logů a identifikaci podezře
 ## Soubory
 - analyzer.py – hlavní skript
 - sample_auth.log – ukázkový log
-- output_report.txt – výstupní report
+
 
 ## Cíl projektu
 Cílem projektu je ukázat základní práci bezpečnostního analytika při analýze logů a detekci potenciálních hrozeb.
